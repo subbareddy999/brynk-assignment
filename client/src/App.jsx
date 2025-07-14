@@ -38,7 +38,7 @@ function LandingPage() {
             <img src="./public/design.png" alt="design" />
         </div>
       </div>
-    <img className="bottom" src="./public/bottom.svg" alt="bottom" />
+    <img className="bottom" src="https://github.com/subbareddy999/brynk-assignment/blob/main/client/public/bottom.svg" alt="bottom" />
     </div>
   );
 }
