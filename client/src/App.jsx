@@ -35,10 +35,10 @@ function LandingPage() {
         <button className="hero-cta">Get Started</button>
        </div>
         <div className="design">
-            <img src="public/design.png" alt="design" />
+            <img src="./public/design.png" alt="design" />
         </div>
       </div>
-    <img className="bottom" src="public/bottom.svg" alt="bottom" />
+    <img className="bottom" src="./public/bottom.svg" alt="bottom" />
     </div>
   );
 }
