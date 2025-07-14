@@ -49,7 +49,7 @@ body, html {
     align-items: flex-start;
     justify-content: space-around;
     max-width: 100vw;
-    background-image: url('public/main.svg');
+    background-image: url('https://asset.cloudinary.com/srk999/8b38a7cc0c79f681f49ef2c86165fad8');
     max-height: 826px;
   }
 
