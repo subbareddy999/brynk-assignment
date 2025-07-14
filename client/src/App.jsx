@@ -35,7 +35,7 @@ function LandingPage() {
         <button className="hero-cta">Get Started</button>
        </div>
         <div className="design">
-            <img src="./public/design.png" alt="design" />
+            <img src=".https://res.cloudinary.com/srk999/image/upload/v1752494500/design_jsv7mz.png" alt="design" />
         </div>
       </div>
     <img className="bottom" src="https://asset.cloudinary.com/srk999/e63f0795c96a4b58f4ee0694739c4b8a" alt="bottom" />
